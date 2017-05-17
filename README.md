@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/22548/SELAB-AA/fragbinpacking-results.svg)](https://zenodo.org/badge/latestdoi/22548/SELAB-AA/fragbinpacking-results)
+[![DOI](https://zenodo.org/badge/60609803.svg)](https://zenodo.org/badge/latestdoi/60609803)
 # fragbinpacking-results
 Results for the Fragmentable Items Bin Packing Problem
 
