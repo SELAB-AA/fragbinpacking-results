@@ -1,4 +1,3 @@
-[![DOI](https://zenodo.org/badge/60609803.svg)](https://zenodo.org/badge/latestdoi/60609803)
 # fragbinpacking-results
 Results for the Fragmentable Items Bin Packing Problem
 
@@ -11,7 +10,20 @@ Column N' contains the number of items after reduction by E1 E2.
 Column W contains the number of unique item sizes after reduction by E1 E2.
 Column T contains the number of seconds required to run B3.
 
-The results from the experiment are contained in a compressed zip archive.
+The results from the experiments are contained in compressed zip archives.
+results20171117_cc.zip contains the results for the problem set of
+Casazza and Ceselli (2014), "Mathematical programming algorithms for bin packing
+problems with item fragmentation", Comput Oper Res 46(C).
+
+A pair of files is associated with each run of each problem instance:
+{class}/bpp_{items}_{problem}_{run}.dat
+{class}/bpp_{items}_{problem}_{run}.gen
+
+{class} is the problem class
+{items} is the number of items
+{problem} is the problem identifier and {run} is the run.
+
+The results for our problem set are contained in results20171117.zip.
 A pair of files is associated with each run of each problem instance:
 uniform_{capacity}_{low}_{high}_{items}_{problem}_{run}.dat
 uniform_{capacity}_{low}_{high}_{items}_{problem}_{run}.gen
