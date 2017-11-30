@@ -1,4 +1,5 @@
 # fragbinpacking-results
+[![DOI](https://zenodo.org/badge/60609803.svg)](https://zenodo.org/badge/latestdoi/60609803)
 Results for the Fragmentable Items Bin Packing Problem
 
 b3_time.tsv is a tab-separated value file.
